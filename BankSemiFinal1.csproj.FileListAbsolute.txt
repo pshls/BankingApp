@@ -1,0 +1,14 @@
+C:\c#\Bootcamp banking project\BankSemiFinal1\BankSemiFinal1\bin\Debug\BankSemiFinal1.exe.config
+C:\c#\Bootcamp banking project\BankSemiFinal1\BankSemiFinal1\bin\Debug\BankSemiFinal1.exe
+C:\c#\Bootcamp banking project\BankSemiFinal1\BankSemiFinal1\bin\Debug\BankSemiFinal1.pdb
+C:\c#\Bootcamp banking project\BankSemiFinal1\BankSemiFinal1\obj\Debug\BankSemiFinal1.csprojResolveAssemblyReference.cache
+C:\c#\Bootcamp banking project\BankSemiFinal1\BankSemiFinal1\obj\Debug\BankSemiFinal1.csproj.CoreCompileInputs.cache
+C:\c#\Bootcamp banking project\BankSemiFinal1\BankSemiFinal1\obj\Debug\BankSemiFinal1.exe
+C:\c#\Bootcamp banking project\BankSemiFinal1\BankSemiFinal1\obj\Debug\BankSemiFinal1.pdb
+C:\c#\Bootcamp banking project\BankFinal\BankSemiFinal1\bin\Debug\BankSemiFinal1.exe.config
+C:\c#\Bootcamp banking project\BankFinal\BankSemiFinal1\bin\Debug\BankSemiFinal1.exe
+C:\c#\Bootcamp banking project\BankFinal\BankSemiFinal1\bin\Debug\BankSemiFinal1.pdb
+C:\c#\Bootcamp banking project\BankFinal\BankSemiFinal1\obj\Debug\BankSemiFinal1.csprojResolveAssemblyReference.cache
+C:\c#\Bootcamp banking project\BankFinal\BankSemiFinal1\obj\Debug\BankSemiFinal1.csproj.CoreCompileInputs.cache
+C:\c#\Bootcamp banking project\BankFinal\BankSemiFinal1\obj\Debug\BankSemiFinal1.exe
+C:\c#\Bootcamp banking project\BankFinal\BankSemiFinal1\obj\Debug\BankSemiFinal1.pdb
